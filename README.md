@@ -1,4 +1,3 @@
-# emojiport-installer
-EmojiPort installer by smacpats updated to support iOS 13.1 emojis
-
-Installs emojiport and the iOS 13.1 emojis onto your jailbroken device for you. 
+# iOS 13.1 emoji tweak
+Based on EmojiPort installer by smacpats 
+This version will install iOS 13.1 emojis (but not EmojiPort) on your jailbroken device.
